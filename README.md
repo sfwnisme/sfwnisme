@@ -1,11 +1,7 @@
 <h1 align="center">Safwan Mohamed</h1>
-<h3 align="left">
-- Safwan Mohamed 
 - Front End Student
 - Attracted by my works contact me => insta:@sfwnisme
 - [sfwn.me](https://sfwnisme.github.io/mysite/)
-
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sfwnisme&label=Profile%20views&color=0e75b6&style=flat" alt="sfwnisme" /> </p>
 
