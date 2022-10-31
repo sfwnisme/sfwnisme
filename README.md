@@ -1,4 +1,4 @@
-<h1 align="center">Safwan Mohamed</h1>
+<h1 align="left">Safwan Mohamed</h1>
 
 - Front End Student
 - <a href="https://sfwn.me" target="blank">sfwn.me</a>
