@@ -1,3 +1,3 @@
 - Front End Student
-- Attracted by my works contact me => insta:@sfwnisme
+- Instagram | Facebook | Codepen => @sfwnisme
 - [sfwn.me](https://sfwn.me)
