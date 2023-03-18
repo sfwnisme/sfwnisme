@@ -1,4 +1,4 @@
-- Front End Student
+- Front-end Developter at planandresults.com
 - Current Technologies
   - Html
   - Css
