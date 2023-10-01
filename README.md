@@ -1,10 +1,6 @@
-- Front-end Developter at planandresults.com
+- Front-end Developer at [PR](planandresults.com)
 - Current Technologies
-  - Html
-  - Css
-  - Command Line
-  - Git & Github
-  - JavaScript
-- Instagram | Facebook | Codepen ➤ @sfwnisme
-- [sfwn.me](https://sfwn.me)
-- [insta](https://instagram.com/sfwnisme)
+  + Html
+  + Css
+  + JavaScript
+  + Reactjs
