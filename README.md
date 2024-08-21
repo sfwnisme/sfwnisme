@@ -7,4 +7,5 @@
   + CSS
   + JavaScript
   + Reactjs
-  + Command line
+
+![Visitor Count](https://profile-counter.glitch.me/sfwnisme/count.svg)
