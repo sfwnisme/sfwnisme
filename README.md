@@ -1,6 +1,8 @@
 ## Bio
 Working on Reactjs, Nextjs and any thing related to the lovely Frontend techs.
 
+Only Active on [Linkedin](https://linkedin.com/in/sfwnisme)
+
 Your feedback on [VISI](https://github.com/sfwnisme/visi) Package helps me make it better.
 
 ## In progress...
